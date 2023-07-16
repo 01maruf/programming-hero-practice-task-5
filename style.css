@@ -176,6 +176,9 @@ nav .logo {
 
 .some-facts-img-container {
     display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5rem;
 }
 
 .facts-1 {
